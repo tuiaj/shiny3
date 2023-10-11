@@ -1,2 +1,7 @@
-Tested from: https://github.com/nrennie/tidytuesday-shiny-app 
+They key is to have follow these instructions: https://github.com/posit-dev/r-shinylive
+
+
+```
+shinylive::export("myapp", "site")
+```
 
